@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "甘肃不动产首页",
+  "usingComponents": {
+    "home-menu-group": "/components/homeMenuGroup/homeMenuGroup"
+  }
+}
